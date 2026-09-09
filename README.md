@@ -1,4 +1,8 @@
-# [инфо] 🌐
+# CIRCUIT HUB
+
+🌐 **Сайт проекта:** http://circuit-hub.duckdns.org:8080/
+
+Collaborative Logic Studio для совместного проектирования, симуляции и проверки цифровых схем в реальном времени.
 
 [![Symfony](https://img.shields.io/badge/Symfony-6.4%20%2F%208.1-black?style=flat-square&logo=symfony)](https://symfony.com/)
 [![PHP](https://img.shields.io/badge/PHP-8.4%2B-777BB4?style=flat-square&logo=php)](https://www.php.net/)
